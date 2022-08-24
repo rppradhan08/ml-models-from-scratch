@@ -1,8 +1,8 @@
 ## Linear Regression from Scratch <hr>
 
 <p align="center">
-  <a href="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN">
-    <img src="https://github.com/rppradhan08/1. Linear Regression/lr_train.gif" alt="Logo" width="500" align="center">
+  <a href="https://github.com/rppradhan08/ml-models-from-scratch/tree/main/1.%20Linear%20Regression">
+    <img src="https://github.com/rppradhan08/ml-models-from-scratch/blob/main/1.%20Linear%20Regression/lr_train.gif?raw=true" alt="Logo" width="500" align="center">
   </a>
 </p>
 
