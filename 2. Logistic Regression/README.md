@@ -1,8 +1,8 @@
 ## Logistic Regression from Scratch <hr>
 
 <p align="center">
-  <a href="https://github.com/rppradhan08/ml-models-from-scratch/tree/main/1.%20Linear%20Regression">
-    <img src="https://github.com/rppradhan08/ml-models-from-scratch/blob/main/1.%20Linear%20Regression/lr_train.gif?raw=true" alt="Logo" width="500" align="center">
+  <a href="https://github.com/rppradhan08/ml-models-from-scratch/tree/main/2.%20Logistic%20Regression">
+    <img src="https://github.com/rppradhan08/ml-models-from-scratch/blob/main/2.%20Logistic%20Regression/images/confusion%20matrix.png?raw=true" alt="Logo" width="500" align="center">
   </a>
 </p>
 
@@ -10,7 +10,7 @@ In statistics, the (binary) logistic model (or logit model) is a statistical mod
 
 In this module we will build a custom linear regression model from scratch using numpy. Below is the brief layout of the `LogisticRegression` class i.e. being used in this module.
 
-    LinearRegression
+    LogisticRegression
         |
         |--fit() : This method is used to train the model.
         |
