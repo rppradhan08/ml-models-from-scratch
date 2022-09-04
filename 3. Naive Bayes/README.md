@@ -1,8 +1,8 @@
 ## Naive Bayes from Scratch <hr>
 
 <p align="center">
-  <a href="https://github.com/rppradhan08/ml-models-from-scratch/tree/main/1.%20Linear%20Regression">
-    <img src="https://github.com/rppradhan08/ml-models-from-scratch/blob/main/1.%20Linear%20Regression/lr_train.gif?raw=true" alt="Logo" width="500" align="center">
+  <a href="https://github.com/rppradhan08/ml-models-from-scratch/tree/main/3.%20Naive%20Bayes">
+    <img src="https://raw.githubusercontent.com/rppradhan08/ml-models-from-scratch/main/3.%20Naive%20Bayes/images/Bayes_Theorm.png" alt="Logo" width="500" align="center">
   </a>
 </p>
 
